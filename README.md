@@ -2,8 +2,8 @@ Water Level Meter with Ultrasonic Sensor and LCD Display
 This project uses an ultrasonic sensor to measure the water level in a tank and displays the results on an I2C LCD screen.
 The system calculates the water level percentage, water height, and water volume, and displays them on the LCD along with a progress bar.
 
-Components:
-Arduino Uno (or compatible microcontroller)
+Components:<br>
+Arduino Uno (or compatible microcontroller) <br>
 Ultrasonic Sensor (HC-SR04)
 I2C LCD Display (16x2)
 Jumper wires
